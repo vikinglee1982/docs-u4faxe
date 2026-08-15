@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-hxyspr.hartawin.site/sitemap.xml
